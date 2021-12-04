@@ -7,10 +7,12 @@
     color: red;
     text-align: center;
 }
-
+head {
+    margin: 1in;
+}
 body {
     padding: 0px;
-    margin: 0px;
+    margin: 1in;
     text-align: center;
 }
 

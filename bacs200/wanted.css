@@ -49,6 +49,8 @@ header {
     height: 120px;
     padding: 0;
     margin-top: 1in;
+    margin-left: 1in;
+    margin-right: 1in;
 }
 
 header * {
